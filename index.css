@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    padding: 25px;
+    background-image: url(1900857.webp);
+    background-size: cover;
+}
+div{
+    background-color: aqua;
+    border-radius:  20%;
+    border: 5 px square black;
+}
+input {
+    border-color:black;
+    background-color: white;
+    
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15%;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 15px;
+}
